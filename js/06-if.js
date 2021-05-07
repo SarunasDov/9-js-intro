@@ -1,18 +1,15 @@
 /*
 IF - salygos sakinys
-
 PALYGINIMO OPERATORIAI:
 visi: >, <, >=, <=, ==, !=, ===, !==
 nenaudotini: ==, !=
 naudotini: >, <, >=, <=, ===, !==
-
 SABLONAI:
 if () {}
 if () {} else {}
 if () {} else if () {}
 if () {} else if () {} ...  else if () {}
 if () {} else if () {} ...  else if () {} else {}
-
 */
 
 const a = 'labas';

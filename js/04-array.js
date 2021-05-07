@@ -1,12 +1,10 @@
 /*
 ARRAY
-
 array metodai:
 - .push()       - prideti i gala nauja reiksme
 - .unshift()    - prideti i prieki nauja reiksme
 - .pop()        - isimti is galo (paskutini)
 - .shift()      - isimti is priekio (pirmaji)
-
 */
 
 const marks = [10, 2, 8, 4, 6, 5, 2, 10, 8];

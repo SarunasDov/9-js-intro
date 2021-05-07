@@ -1,24 +1,18 @@
-
 /*
-
-INICIAVIMO BUDAS(keiciamumas ir scope):
+INICIAVIMO BUDAS (keiciamumas ir scope):
 const - nekeiciama reiksme
 let - keiciama reiksme
 var - keiciama reiksme
-
 KINTAMUJU TIPAI:
 number (skaicius)
 string (tekstas)
 boolean (logine reiksme)
-array (sarasas, masyvus, matrica)
+array (sarasas, masyvas, matrica)
 object (objektas)
 null (reiksme kuri neegzistuoja, bet yra)
-undefined (neaapibrezta)
-
-
+undefined (neapibrezta)
 map
 set
-
 */
 
 const metai = 2021;
